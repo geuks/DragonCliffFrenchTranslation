@@ -3,8 +3,7 @@ French translation of Dragon Cliff / Traduction française du jeu Dragon Cliff
 
 ---------------------------------------------------------
 
-##v0.4
-### 10770 lignes traduites sur un total de 15507 lignes.
+### v0.4 - 10770 lignes traduites sur un total de 15507 lignes.
 
 #Adding
 - 69.48 % traduits
@@ -15,9 +14,14 @@ French translation of Dragon Cliff / Traduction française du jeu Dragon Cliff
 
 ---------------------------------------------------------
 
-##v0.3
-### 5210 lignes traduites sur un total de 15507 lignes.
+### v0.3 - 5210 lignes traduites sur un total de 15507 lignes.
 - 33.61 % traduits
 
 ---------------------------------------------------------
 
+### Installation
+
+- Remplacez "Localization-en.json" dans \Program Files (x86)\Steam\steamapps\common\Dragon Cliff\game_Data\StreamingAssets\
+
+
+---------------------------------------------------------
