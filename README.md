@@ -3,9 +3,10 @@ French translation of Dragon Cliff / Traduction française du jeu Dragon Cliff
 
 ---------------------------------------------------------
 
-#Adding
 ##v0.4
 ### 10770 lignes traduites sur un total de 15507 lignes.
+
+#Adding
 - 69.48 % traduits
 
 #Changed
