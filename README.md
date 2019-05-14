@@ -33,7 +33,7 @@ French translation of Dragon Cliff / Traduction française du jeu Dragon Cliff
 ## Installation
 
 ```
-- Remplacez "Localization-en.json" dans \Steam\steamapps\common\Dragon Cliff\game_Data\StreamingAssets\
+- Remplacez "Localization-en.json" dans \Dragon Cliff\game_Data\StreamingAssets\
 ```
 
 ---------------------------------------------------------
