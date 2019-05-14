@@ -37,3 +37,9 @@ French translation of Dragon Cliff / Traduction française du jeu Dragon Cliff
 ```
 
 ---------------------------------------------------------
+
+## Crédits
+
+```
+- Gadish qui a fait 5% de la traduction
+```
